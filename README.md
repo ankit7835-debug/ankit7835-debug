@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Ankit
 
-<!--
-**ankit7835-debug/ankit7835-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Web Developer (Learning)
 
-Here are some ideas to get you started:
+🎓 BCA Student (IGNOU)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Web Development, AI & Blockchain
+
+🏆 Hackathon Enthusiast | Building Real-World Projects
+
+---
+
+## 👨‍💻 About Me
+
+- 🌱 Currently learning **React, Node.js, MongoDB & Solidity**
+- 🔭 Working on **ProofMind AI**
+- 🎯 Goal: Become a Professional Full Stack Developer
+- 💡 Interested in AI, Web3 and Open Source
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Node.js
+- Express.js
+- MongoDB
+- Git
+- GitHub
+
+---
+
+## 🚀 Featured Projects
+
+- 📌 ProofMind AI
+- 📌 SkillSphere AI
+- 📌 Portfolio Website
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/ankit7835-debug
+
+⭐ Thanks for visiting my profile!
