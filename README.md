@@ -5,8 +5,7 @@
 🎓 BCA Student (IGNOU)
 
 💻 Passionate about Web Development, AI & Blockchain
-
-🏆 Hackathon Enthusiast | Building Real-World Projects
+ | Building Real-World Projects
 
 ---
 
